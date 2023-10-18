@@ -3,7 +3,7 @@ Best teach on the planet is now a RPG!
 
 <html>
 <head>
-	<title></title>
+	<title>San Antonio</title>
 </head>
 <body>
 <h2>Comming Soon :</h2>
@@ -15,9 +15,9 @@ Best teach on the planet is now a RPG!
 	<li>Forknife (<em>Sliverware SomethingPersonShooter)</em></li>
 </ol>
 
-<div class="w3-border">
-<div class="w3-grey" style="height:24px;width:1%">&nbsp;</div>
-</div>
+![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+
 </body>
 </html>
 
