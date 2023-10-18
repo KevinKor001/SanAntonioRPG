@@ -15,9 +15,7 @@ Best teach on the planet is now a RPG!
 	<li>Forknife (<em>Sliverware SomethingPersonShooter)</em></li>
 </ol>
 
-<div class="w3-light-grey">
-  <div class="w3-container w3-green w3-center" style="width:25%">25%</div>
-</div>
+![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 
 </body>
