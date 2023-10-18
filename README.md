@@ -15,7 +15,29 @@ Best teach on the planet is now a RPG!
 	<li>Forknife (<em>Sliverware SomethingPersonShooter)</em></li>
 </ol>
 
-![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px;">
+	<tbody>
+		<tr>
+			<td>Overall</td>
+			<td>![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+</td>
+		</tr>
+		<tr>
+			<td>Game Story</td>
+			<td>![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600)
+</td>
+		</tr>
+		<tr>
+			<td>Game Mechanics</td>
+			<td>![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
 
 
 </body>
