@@ -8,8 +8,13 @@ KeyAttack = keyboard_check_pressed(vk_shift);
 KeyItem = keyboard_check_pressed(vk_control);
 
 //Calculate move direction & magnitude
-inputDirection = point_direction(0,0,KeyLeft-KeyRight,KeyUp-KeyDown);
+inputDirection = point_direction(0,0,KeyRight-KeyLeft,KeyDown-KeyUp);
 inputMagnitude = (KeyRight - KeyLeft != 0) || (KeyDown - KeyUp !=0);
 
+//movement
+horSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection)
+vertSpeed = lengthdir_y(inputMagnitude* speedWalk, inputDirection)
 
+x += horSpeed
+y += vertSpeed
 
