@@ -4,6 +4,7 @@
   "name": "Obj_Player",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,9 +29,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Player",
-    "path": "sprites/Player/Player.yy",
+    "name": "s_Player",
+    "path": "sprites/s_Player/s_Player.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "s_Player",
+    "path": "sprites/s_Player/s_Player.yy",
+  },
   "visible": true,
 }
